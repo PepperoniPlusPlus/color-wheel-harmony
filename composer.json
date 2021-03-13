@@ -1,0 +1,17 @@
+{
+    "name": "pepperoniplusplus/color-wheel-harmony",
+    "description": "A package to output colors based on color harmony on the color wheel.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PepperoniPlusPlus",
+            "email": "ibrahimkfawaz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"pepperoniplusplus\\ColorHarmony\\": "src/"}
+    },
+    "require": {}
+}
